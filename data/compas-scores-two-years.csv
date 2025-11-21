@@ -1,0 +1,9 @@
+id,age,sex,race,priors_count,c_charge_degree,decile_score,two_year_recid,days_b_screening_arrest,length_of_stay
+1,34,M,African-American,2,F,6,1,30,120
+2,22,F,White,0,M,4,0,15,45
+3,45,M,Hispanic,5,F,8,1,10,200
+4,29,M,Non-White,1,M,3,0,20,60
+5,37,F,Caucasian,3,F,7,1,25,180
+6,31,M,African-American,2,M,5,0,12,90
+7,28,F,White,0,F,3,0,18,50
+8,40,M,Hispanic,4,F,7,1,22,150

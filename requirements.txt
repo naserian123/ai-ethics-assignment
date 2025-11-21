@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scikit-learn
+aif360==0.6.0
+jupyterlab
